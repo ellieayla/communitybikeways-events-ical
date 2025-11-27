@@ -1,4 +1,4 @@
-# Scrapy settings for cycleto project
+# Scrapy settings for communitybikeways project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "cycleto"
+BOT_NAME = "communitybikeways"
 
-SPIDER_MODULES = ["cycleto.spiders"]
-NEWSPIDER_MODULE = "cycleto.spiders"
+SPIDER_MODULES = ["communitybikeways.spiders"]
+NEWSPIDER_MODULE = "communitybikeways.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15 ICalExport (+https://github.com/ellieayla/cycleto-events-ical)"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15 ICalExport (+https://github.com/ellieayla/communitybikeways-events-ical)"
 
 # Obey robots.txt rules
 # ROBOTSTXT_OBEY = True
@@ -25,7 +25,7 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 8
+DOWNLOAD_DELAY = 0
 # The download delay setting will honor only one of:
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -45,13 +45,13 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "cycleto.middlewares.CycletoSpiderMiddleware": 543,
+#    "communitybikeways.middlewares.communitybikewaysSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "cycleto.middlewares.CycletoDownloaderMiddleware": 543,
+#    "communitybikeways.middlewares.communitybikewaysDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "cycleto.pipelines.CycletoPipeline": 300,
+#    "communitybikeways.pipelines.communitybikewaysPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -97,18 +97,18 @@ LOG_LEVEL="DEBUG"
 
 
 FEED_EXPORTERS = {
-    'ical': 'cycleto.exporters.ICalItemExporter'
+    'ical': 'communitybikeways.exporters.ICalItemExporter'
 }
 FEEDS = {
     'dates.ical': {
         'format': 'ical',
         'overwrite': True,
-        'item_classes': ["cycleto.items.Event"],
+        'item_classes': ["communitybikeways.items.Event"],
     },
     'dates.ics': {
         'format': 'ical',
         'overwrite': True,
-        'item_classes': ["cycleto.items.Event"],
+        'item_classes': ["communitybikeways.items.Event"],
     },
 }
 

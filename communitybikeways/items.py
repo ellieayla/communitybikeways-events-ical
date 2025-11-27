@@ -14,11 +14,11 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-URL:https://www.cycleto.ca/coldest_day_2025
+URL:https://www.communitybikewaysto.ca/
 DTSTART:20250301T153000Z
 DTEND:20250301T183000Z
 
-SUMMARY:Coldest Day of the Year Ride 2025 - Cycle Toronto
+SUMMARY:Coldest Day of the Year Ride 2025
 LOCATION:
 END:VEVENT
 END:VCALENDAR

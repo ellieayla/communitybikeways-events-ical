@@ -7,8 +7,7 @@ from uuid import UUID, uuid5
 
 from .items import Event
 
-ns = UUID('df750e3c-e8aa-11ef-aa47-6e2c6d516a99')
-
+ns = UUID('b44256d5-dee8-4dee-9fd9-31451e47984e')
 
 class ICalItemExporter(BaseItemExporter):
     # similar to the XML exporter
@@ -20,22 +19,11 @@ class ICalItemExporter(BaseItemExporter):
         self._kwargs.setdefault('ensure_ascii', not self.encoding)
 
     def start_exporting(self):
-        self.cal.add('prodid', '-//CycleTo.ca//verselogic.net//')
+        self.cal.add('prodid', '-//communitybikewaysto.ca//verselogic.net//')
         self.cal.add('version', '2.0')
         self.cal.add('method', 'PUBLISH')
 
     def export_item(self, item: Event):
-        """
-        summary = Field()
-        url = Field()
-
-        start_datetime = Field()
-        end_datetime = Field()
-
-        location = Field()
-
-        description = Field()
-        """
         e = icalendar.Event()
         
         e.add("summary", icalendar.vText(item['summary']))
@@ -47,7 +35,6 @@ class ICalItemExporter(BaseItemExporter):
 
         e.add("description", icalendar.vText(item['description']))
 
-        # print(item['start_datetime'], type(item['start_datetime']), dir(item['start_datetime']))
         self.cal.add_component(e)
 
 

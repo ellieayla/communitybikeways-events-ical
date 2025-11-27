@@ -1,0 +1,70 @@
+import scrapy
+
+from typing import Generator
+
+from ..items import Event
+import icalendar
+import logging
+
+from html2text import html2text
+
+
+class EventsSpider(scrapy.Spider):
+    name = 'events'
+    allowed_domains = ['www.communitybikewaysto.ca']
+    start_urls = [
+        'https://www.communitybikewaysto.ca/events'
+    ]
+
+    def parse(self, response) -> Generator[Event, None, None]:
+        # https://docs.scrapy.org/en/latest/topics/loaders.html#nested-loaders ?
+
+        for e in response.css("div.events-list .eventlist-event h1 a::attr(href)").getall():
+            yield scrapy.Request(
+                response.urljoin(e),
+                callback=self.parse_meeting_details,
+            )
+
+    def parse_meeting_details(self, response):
+        # one event, like /events/roqzijbovnaaa6t243n3f1xggq8mkk
+        ics_url = response.css("a.eventitem-meta-export-ical::attr(href)").get()
+
+        content = response.css(".events-item .html-block")
+
+        description = html2text(content.get())
+
+        yield scrapy.Request(
+            response.urljoin(ics_url),
+            callback=self.handle_ical_file,
+            cb_kwargs={
+                "event_url": response.url,
+                "description": description,
+            }
+        )
+    
+    def handle_ical_file(self, response, event_url=None, description=None):
+        base_calendar = icalendar.Calendar.from_ical(response.body)
+        
+        base_event = base_calendar.walk('vevent')[0]
+
+        location = base_event.decoded("location").decode()
+        start_time = base_event.decoded('dtstart')
+        end_time = base_event.decoded('dtend')
+        url = base_event.decoded('url', default="")
+        summary = base_event.decoded('summary').decode()
+
+        if url and url != event_url:
+            logging.warning("Url in ical file does not match page url")
+
+        e = Event(
+            summary = summary,
+            url = event_url,
+
+            start_datetime = start_time,
+            end_datetime = end_time,
+
+            location = location,
+            description = description,
+        )
+        #print(f"{e=}")
+        yield e

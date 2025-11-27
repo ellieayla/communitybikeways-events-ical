@@ -3,5 +3,4 @@ Scrapy>=2.12.0
 pytz>=2025.1
 cryptography>=36.0.1
 icalendar>=6.1.1
-datauri==1.0.0
-scrapy-playwright==0.0.42
+html2text>=2025.4.15
