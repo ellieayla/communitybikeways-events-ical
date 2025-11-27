@@ -22,6 +22,7 @@ class ICalItemExporter(BaseItemExporter):
         self.cal.add('prodid', '-//communitybikewaysto.ca//verselogic.net//')
         self.cal.add('version', '2.0')
         self.cal.add('method', 'PUBLISH')
+        self.cal.add('x-wr-calname', "Toronto Community Bikeways")
 
     def export_item(self, item: Event):
         e = icalendar.Event()
