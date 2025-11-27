@@ -2,4 +2,323 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20241206T123000Z
+DTEND:20241206T141500Z
+UID:0ee5479f-8970-56d9-91a0-1fb416a5d31a
+DESCRIPTION:Join us at Café de Flore on December 6th!\n\nKoffee on the Ki
+ ngsway is an informal get-together at a coffee shop or diner\nin The Kings
+ way area of Bloor West. Email us for specific details about the\ndate (eve
+ ry second Friday) and location of the event\, which usually runs\nbetween 
+ 7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOve
+ n Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree\
+ nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.T
+ oronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally & Ride
+DTSTART:20241023T210000Z
+DTEND:20241024T000000Z
+UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
+DESCRIPTION:Join us for a community ride promoting road safety and bike la
+ nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
+ ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
+ 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
+ n
+URL:https://www.communitybikewaysto.ca/events/rally-ride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20241220T123000Z
+DTEND:20241220T141500Z
+UID:c756e79b-74a5-58c2-9612-2974cbccba87
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250228T123000Z
+DTEND:20250228T141500Z
+UID:57841b10-301d-529d-99ab-da754bb3edb6
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earth Day Ride in North York
+DTSTART:20250426T140000Z
+DTEND:20250426T153000Z
+UID:02531c17-c594-5665-adf4-894676eeeb0a
+DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
+ some local\nstreets and the unfolding story about planned changes to make 
+ Yonge Street\nmore people-friendly. Meet at the parkette at the corner of 
+ Yonge Street and\nPark Home Avenue (in front of Aroma Espresso\, one block
+  north of the North\nYork Civic Centre). If arriving from outside North Yo
+ rk\, consider taking the\nTTC and renting a Bike Share bike nearby. [Detai
+ ls\nhere](https://www.facebook.com/events/526071400571287/?post_id=5284082
+ 33670937&view=permalink&notif_id=1745329422975867&notif_t=feedback_reactio
+ n_generic&ref=notif).\n\n
+URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
+DTSTART:20250503T190000Z
+DTEND:20250503T203000Z
+UID:aa34a99d-dadd-524c-958b-82ac696bb444
+DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
+ ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
+ hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
+ tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
+URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
+ he-pedestrian-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikes\, Bikes\, and E-Bikes
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
+DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
+ 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
+ alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
+ lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
+  proliferation of e-bikes on city\nstreets\, and work that needs to be don
+ e by governments to regulate the growing\nsize\, weight and power of some 
+ e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
+URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
+DTSTART:20250531T133000Z
+DTEND:20250531T170000Z
+UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
+DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
+ l date was\npostponed due to rain.\n\n
+URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
+ t8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250606T113000Z
+DTEND:20250606T131500Z
+UID:1310cdc6-6926-531d-a303-06d914d15d86
+DESCRIPTION:Join us at Café Rouge on December 20th!\n\nKoffee on the King
+ sway is an informal get-together at a coffee shop or diner\nin The Kingswa
+ y area of Bloor West. Email us for specific details about the\ndate (every
+  second Friday) and location of the event\, which usually runs\nbetween 7:
+ 30 and 9:15am. We rotate between local coffee shops\, including Hot\nOven 
+ Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree\nR
+ oastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.Tor
+ onto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-4ewd5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fridays for Future
+DTSTART:20241207T190000Z
+DTEND:20241207T220000Z
+UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
+DESCRIPTION:Join us in High Park to support the Fridays for Future protest
+  in support of\nbike lanes in Toronto.\n\n
+URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
+ 0b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chalk My Walk
+DTSTART:20250607T180000Z
+DTEND:20250607T210000Z
+UID:e5ba0d71-4fed-53f5-a5da-b27ed42fe0e2
+DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
+ om 2-5pm!\n\nMore details here:\n\n<https://www.facebook.com/mountdennisbi
+ a/photos/this-years-chalk-my-walk-is-\njust-around-the-corner-were-really-
+ excited-that-two-/1206727674583132/?_rdr>  \n\n
+URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250711T113000Z
+DTEND:20250711T131500Z
+UID:2fab6d91-463c-5c69-a738-daeabd030582
+DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
+  shop or diner\nin The Kingsway area of Bloor West. Email us for specific 
+ details about the\ndate (every second Friday) and location of the event\, 
+ which usually runs\nbetween 7:30 and 9:15am. We rotate between local coffe
+ e shops\, including Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Crem
+ e de la Creme\, Coffee Tree\nRoastery (Bloor W Village)\, and Café de Flo
+ re.\n\n[Community.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.To
+ ronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-bgrkn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20250725T113000Z
+DTEND:20250725T131500Z
+UID:ac03d026-8037-581b-b624-6c4d68c2d936
+DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
+  shop or diner\nin The Kingsway area of Bloor West. Email us for specific 
+ details about the\ndate (every second Friday) and location of the event\, 
+ which usually runs\nbetween 7:30 and 9:15am. We rotate between local coffe
+ e shops\, including Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Crem
+ e de la Creme\, Coffee Tree\nRoastery (Bloor W Village)\, and Café de Flo
+ re.\n\n[Community.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.To
+ ronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-bgrkn-s9nbd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20250829T113000Z
+DTEND:20250829T131500Z
+UID:e00d5a29-61e0-5998-8c36-89c359663be4
+DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
+  shop or diner\nin The Kingsway area of Bloor West. Email us for specific 
+ details about the\ndate (every second Friday) and location of the event\, 
+ which usually runs\nbetween 7:30 and 9:15am. We rotate between local coffe
+ e shops\, including Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Crem
+ e de la Creme\, Coffee Tree\nRoastery (Bloor W Village)\, and Café de Flo
+ re.\n\n[Community.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.To
+ ronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-4ewd5-7dj84
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20251010T113000Z
+DTEND:20251010T131500Z
+UID:c33c8956-6404-5a28-9733-70099b950705
+DESCRIPTION:Join us for our 100th get-together in the Kingsway!\n\nKoffee 
+ on the Kingsway is an informal get-together at a coffee shop or diner\nin 
+ The Kingsway area of Bloor West. Email us for specific details about the\n
+ date (every second Friday) and location of the event\, which usually runs\
+ nbetween 7:30 and 9:15am. We rotate between local coffee shops\, including
+  Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Cof
+ fee Tree\nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.B
+ ikeways.Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\
+ n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-bgrkn-yhlwe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intersection Intervention
+DTSTART:20251031T210000Z
+DTEND:20251101T000000Z
+UID:b94d290d-db13-5d36-a2cf-9a500a54b2c8
+DESCRIPTION:Let’s SLOW DOWN Parkside Drive\n\nInaugural action is --- Fr
+ iday October 31st\n\n5 PM meet at S/W corner of Bloor St W & Parkside  \nB
+ ring a friend & some Halloween candy! Make a sign? Wear a costume? Play so
+ me\nspooky music.\n\nLink [EVENT](https://www.facebook.com/share/1CMghWnCf
+ t/)\n\n
+URL:https://www.communitybikewaysto.ca/events/mdhcmlk5rjqmyb113km2k7lqpupv
+ uv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Action on Cycling Safety
+DTSTART:20251115T190000Z
+DTEND:20251115T210000Z
+UID:5eada4f7-96c5-51e7-bb01-1581a37d707b
+DESCRIPTION:Join us at the **Toronto Public Library - S. Walter Stewart Br
+ anch** for a\ndiscussion with cycling advocates working to make Toronto cy
+ cling-friendly.\nLearn how you can become involved in advocating for safer
+  biking conditions in\nour community. Whether you're a seasoned cyclist or
+  just starting out\, this\nevent is for you. Let's work together to make o
+ ur city a safer place for\ncyclists!\n\nPanel discussion followed by a Q&A
+  period.\n\n[Register here](http://eventbrite.ca/e/taking-action-for-safe-
+ cycling-in-the-\ncity-tickets-1797500766179?aff=ebdssbdestsearch&keep_tld=
+ 1)\n\n
+URL:https://www.communitybikewaysto.ca/events/taking-action-on-cycling-saf
+ ety
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing the Loop
+DTSTART:20251116T150000Z
+DTEND:20251116T200000Z
+UID:6558c0ac-02c0-5721-8c74-8435f4a06b44
+DESCRIPTION:Launch of campaign to push City Hall to close remaining seven 
+ (short) gaps in\nthe 73km Toronto Loop\, a project that has been a half ce
+ ntury in the making.\nThe 50km ride will be at an easy pace with rest stop
+ s along the way. Meet at\nThe Well\, corner of Front and Spadina\, South E
+ ntrance in front of Fix Coffee\nand Bikes. To register email us at\n[Commu
+ nity.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.c
+ om)\n\n
+URL:https://www.communitybikewaysto.ca/events/closing-the-loop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6th annual Cycling Good Cheer
+DTSTART:20251207T180000Z
+DTEND:20251207T220000Z
+UID:94bed0e9-94ae-5efe-b32e-9d09554dd615
+DESCRIPTION:Join us for the 6th annual Cycling Good Cheer!\n\nParade start
+ s at Raccoon Park 86 Soudan Ave and finishes with picnic at\nRaccoon Terra
+ ce.\n\n**Feeder Rides:**\n\n**Scarborough** \\- **Ride with the Grinch**\n
+ \n11:30 Meet at the NW corner of Danforth & Victoria Park Ave\n\n11:45 Rol
+ l out the cheer\n\n1:30 Frank Stollery Parkette\, 1 Davenport to meet up w
+ ith Parade from the\nNorth\n\n  \n**High Park** \\- Ride with **Ruby the R
+ ed Nosed Reindeer**\n\n11:15 Meet at High Park Gates North & Bloor St W\n\
+ n11:30 Roll out the tunes along Bloor and then north on Yonge!\n\n  \n**St
+  Lawrence Market** \\- Ride with the **Bicycle Mayor of Toronto**\n\n12 no
+ on Meet on Market Street at the doors just south of Esplanade\n\n12:15 Rol
+ l up Yonge Street to Eglinton\n\n**North York** \\- **Ride with Elves from
+  the North Pole**\n\n12:15 Meet at Finch TTC Station subway platform\n\nSo
+ uth end at the head of the train\n\n
+URL:https://www.communitybikewaysto.ca/events/roqzijbovnaaa6t243n3f1xggq8m
+ kk
+END:VEVENT
 END:VCALENDAR
