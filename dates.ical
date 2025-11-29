@@ -31,6 +31,47 @@ LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\,
 URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+DTSTAMP:20241115T222212Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20241122T123000Z
+DTEND:20241122T141500Z
+DTSTAMP:20241120T201002Z
+UID:fe6f8a28-c073-5363-b7e8-b0e25c479ccf
+DESCRIPTION:An informal get-together at a coffee shop or diner in The King
+ sway area of\nBloor West. Email us for specific details about the date (ev
+ ery second Friday)\nand location of the event\, which usually runs between
+  7:30 and 9:15am. We\nrotate between local coffee shops\, including Hot Ov
+ en Bakery\, Rouge Café\,\nToast on Bloor\, Creme de la Creme\, Coffee Tre
+ e Roastery (Bloor W Village)\, and\nCafé de Flore.\n\n[Community.Bikeways
+ .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:
+URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Critical Mass Ride
 DTSTART:20241129T233000Z
 DTEND:20241130T023000Z
@@ -59,47 +100,6 @@ LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly)
-DTSTART:20241122T123000Z
-DTEND:20241122T141500Z
-DTSTAMP:20241120T201002Z
-UID:fe6f8a28-c073-5363-b7e8-b0e25c479ccf
-DESCRIPTION:An informal get-together at a coffee shop or diner in The King
- sway area of\nBloor West. Email us for specific details about the date (ev
- ery second Friday)\nand location of the event\, which usually runs between
-  7:30 and 9:15am. We\nrotate between local coffee shops\, including Hot Ov
- en Bakery\, Rouge Café\,\nToast on Bloor\, Creme de la Creme\, Coffee Tre
- e Roastery (Bloor W Village)\, and\nCafé de Flore.\n\n[Community.Bikeways
- .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:
-URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-DTSTAMP:20241115T222212Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fridays for Future
@@ -157,25 +157,6 @@ LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20250228T123000Z
-DTEND:20250228T141500Z
-DTSTAMP:20250227T003035Z
-UID:57841b10-301d-529d-99ab-da754bb3edb6
-DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
- ingsway is an informal get-together at a coffee shop or diner\nin The King
- sway area of Bloor West. Email us for specific details about the\ndate (ev
- ery second Friday) and location of the event\, which usually runs\nbetween
-  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
- en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
- \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
- Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earth Day Ride in North York
@@ -273,6 +254,25 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250228T123000Z
+DTEND:20250228T141500Z
+DTSTAMP:20250227T003035Z
+UID:57841b10-301d-529d-99ab-da754bb3edb6
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
+ , Canada
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
