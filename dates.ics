@@ -102,18 +102,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fridays for Future
-DTSTART:20241207T190000Z
-DTEND:20241207T220000Z
-DTSTAMP:20241130T201916Z
-UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
-DESCRIPTION:Join us in High Park to support the Fridays for Future protest
-  in support of\nbike lanes in Toronto.\n\n
-LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
- 0b
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cycling Good Cheer Holiday Bicycle Ride
 DTSTART:20241208T163000Z
 DTEND:20241208T190000Z
@@ -273,6 +261,18 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fridays for Future
+DTSTART:20241207T190000Z
+DTEND:20241207T220000Z
+DTSTAMP:20241130T201916Z
+UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
+DESCRIPTION:Join us in High Park to support the Fridays for Future protest
+  in support of\nbike lanes in Toronto.\n\n
+LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
+ 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
