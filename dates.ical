@@ -18,19 +18,6 @@ LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
 URL:https://www.communitybikewaysto.ca/events/rally-ride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pedal Protest: East End Vs. Bill 212
 DTSTART:20241117T203000Z
 DTEND:20241117T233000Z
@@ -56,6 +43,19 @@ LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
 URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+DTSTAMP:20241115T222159Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20241122T123000Z
 DTEND:20241122T141500Z
@@ -70,17 +70,6 @@ DESCRIPTION:An informal get-together at a coffee shop or diner in The King
  .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
 LOCATION:
 URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-DTSTAMP:20241130T201242Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n
-LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
@@ -100,6 +89,17 @@ LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+DTSTAMP:20241130T201242Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cycling Good Cheer Holiday Bicycle Ride
@@ -200,21 +200,16 @@ URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
  he-pedestrian-experience
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikes\, Bikes\, and E-Bikes
-DTSTART:20250504T140000Z
-DTEND:20250504T153000Z
-DTSTAMP:20250426T001614Z
-UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
-DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
- 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
- alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
- lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
-  proliferation of e-bikes on city\nstreets\, and work that needs to be don
- e by governments to regulate the growing\nsize\, weight and power of some 
- e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
-LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
- N\, M5S 1X4\, Canada
-URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
+SUMMARY:Fridays for Future
+DTSTART:20241207T190000Z
+DTEND:20241207T220000Z
+DTSTAMP:20241130T201916Z
+UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
+DESCRIPTION:Join us in High Park to support the Fridays for Future protest
+  in support of\nbike lanes in Toronto.\n\n
+LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
+ 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
@@ -249,6 +244,23 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bikes\, Bikes\, and E-Bikes
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+DTSTAMP:20250426T001614Z
+UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
+DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
+ 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
+ alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
+ lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
+  proliferation of e-bikes on city\nstreets\, and work that needs to be don
+ e by governments to regulate the growing\nsize\, weight and power of some 
+ e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
+LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
+ N\, M5S 1X4\, Canada
+URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chalk My Walk
 DTSTART:20250607T180000Z
 DTEND:20250607T210000Z
@@ -261,18 +273,6 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fridays for Future
-DTSTART:20241207T190000Z
-DTEND:20241207T220000Z
-DTSTAMP:20241130T201916Z
-UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
-DESCRIPTION:Join us in High Park to support the Fridays for Future protest
-  in support of\nbike lanes in Toronto.\n\n
-LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
- 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
