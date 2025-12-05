@@ -4,34 +4,6 @@ PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
-SUMMARY:Rally & Ride
-DTSTART:20241023T210000Z
-DTEND:20241024T000000Z
-DTSTAMP:20241115T222135Z
-UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
-DESCRIPTION:Join us for a community ride promoting road safety and bike la
- nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
- ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
- 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
- n
-LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/rally-ride
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-DTSTAMP:20241115T222212Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20241122T123000Z
 DTEND:20241122T141500Z
@@ -76,18 +48,6 @@ LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fridays for Future
-DTSTART:20241207T190000Z
-DTEND:20241207T220000Z
-DTSTAMP:20241130T201916Z
-UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
-DESCRIPTION:Join us in High Park to support the Fridays for Future protest
-  in support of\nbike lanes in Toronto.\n\n
-LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
- 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cycling Good Cheer Holiday Bicycle Ride
@@ -205,42 +165,17 @@ LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
 URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chalk My Walk
-DTSTART:20250607T180000Z
-DTEND:20250607T210000Z
-DTSTAMP:20250607T230625Z
-UID:e5ba0d71-4fed-53f5-a5da-b27ed42fe0e2
-DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
- om 2-5pm!\n\nMore details here:\n\n<https://www.facebook.com/mountdennisbi
- a/photos/this-years-chalk-my-walk-is-\njust-around-the-corner-were-really-
- excited-that-two-/1206727674583132/?_rdr>  \n\n
-LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
-  M6M 4P4\, Canada
-URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
+DTSTART:20250531T133000Z
+DTEND:20250531T170000Z
+DTSTAMP:20250517T174806Z
+UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
+DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
+ l date was\npostponed due to rain.\n\n
+LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
+ e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
+URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
+ t8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -262,17 +197,30 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
-DTSTART:20250531T133000Z
-DTEND:20250531T170000Z
-DTSTAMP:20250517T174806Z
-UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
-DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
- l date was\npostponed due to rain.\n\n
-LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
- e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
-URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
- t8
+SUMMARY:Chalk My Walk
+DTSTART:20250607T180000Z
+DTEND:20250607T210000Z
+DTSTAMP:20250607T230625Z
+UID:e5ba0d71-4fed-53f5-a5da-b27ed42fe0e2
+DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
+ om 2-5pm!\n\nMore details here:\n\n<https://www.facebook.com/mountdennisbi
+ a/photos/this-years-chalk-my-walk-is-\njust-around-the-corner-were-really-
+ excited-that-two-/1206727674583132/?_rdr>  \n\n
+LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
+  M6M 4P4\, Canada
+URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evergreen Brickworks Ride
+DTSTART:20250621T140000Z
+DTEND:20250621T163000Z
+DTSTAMP:20250607T231150Z
+UID:e4069006-271c-5da3-827d-a81a30c8437f
+DESCRIPTION:
+LOCATION:AccessPoint on Danforth\, 3079 Danforth Avenue\, Toronto\, ON\, M
+ 1L 1A8\, Canada
+URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
+ l0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -294,18 +242,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evergreen Brickworks Ride
-DTSTART:20250621T140000Z
-DTEND:20250621T163000Z
-DTSTAMP:20250607T231150Z
-UID:e4069006-271c-5da3-827d-a81a30c8437f
-DESCRIPTION:
-LOCATION:AccessPoint on Danforth\, 3079 Danforth Avenue\, Toronto\, ON\, M
- 1L 1A8\, Canada
-URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
- l0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20250725T113000Z
 DTEND:20250725T131500Z
@@ -323,6 +259,70 @@ LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\,
  M8X 1C1\, Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn-s9nbd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally & Ride
+DTSTART:20241023T210000Z
+DTEND:20241024T000000Z
+DTSTAMP:20241115T222135Z
+UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
+DESCRIPTION:Join us for a community ride promoting road safety and bike la
+ nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
+ ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
+ 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
+ n
+LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/rally-ride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fridays for Future
+DTSTART:20241207T190000Z
+DTEND:20241207T220000Z
+DTSTAMP:20241130T201916Z
+UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
+DESCRIPTION:Join us in High Park to support the Fridays for Future protest
+  in support of\nbike lanes in Toronto.\n\n
+LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
+ 0b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+DTSTAMP:20241115T222159Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+DTSTAMP:20241115T222212Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
