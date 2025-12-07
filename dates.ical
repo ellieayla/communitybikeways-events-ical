@@ -4,6 +4,60 @@ PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
+SUMMARY:Rally & Ride
+DTSTART:20241023T210000Z
+DTEND:20241024T000000Z
+DTSTAMP:20241115T222135Z
+UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
+DESCRIPTION:Join us for a community ride promoting road safety and bike la
+ nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
+ ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
+ 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
+ n
+LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/rally-ride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+DTSTAMP:20241115T222159Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20241122T123000Z
+DTEND:20241122T141500Z
+DTSTAMP:20241120T201002Z
+UID:fe6f8a28-c073-5363-b7e8-b0e25c479ccf
+DESCRIPTION:An informal get-together at a coffee shop or diner in The King
+ sway area of\nBloor West. Email us for specific details about the date (ev
+ ery second Friday)\nand location of the event\, which usually runs between
+  7:30 and 9:15am. We\nrotate between local coffee shops\, including Hot Ov
+ en Bakery\, Rouge Café\,\nToast on Bloor\, Creme de la Creme\, Coffee Tre
+ e Roastery (Bloor W Village)\, and\nCafé de Flore.\n\n[Community.Bikeways
+ .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:
+URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Critical Mass Ride
 DTSTART:20241129T233000Z
 DTEND:20241130T023000Z
@@ -129,6 +183,21 @@ LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
+DTSTART:20250503T190000Z
+DTEND:20250503T203000Z
+DTSTAMP:20250424T211405Z
+UID:aa34a99d-dadd-524c-958b-82ac696bb444
+DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
+ ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
+ hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
+ tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
+LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
+ nada
+URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
+ he-pedestrian-experience
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bikes\, Bikes\, and E-Bikes
 DTSTART:20250504T140000Z
 DTEND:20250504T153000Z
@@ -190,6 +259,20 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+DTSTAMP:20241115T222212Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
@@ -259,89 +342,6 @@ LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
  anada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5-7dj84
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally & Ride
-DTSTART:20241023T210000Z
-DTEND:20241024T000000Z
-DTSTAMP:20241115T222135Z
-UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
-DESCRIPTION:Join us for a community ride promoting road safety and bike la
- nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
- ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
- 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
- n
-LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/rally-ride
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
-DTSTART:20250503T190000Z
-DTEND:20250503T203000Z
-DTSTAMP:20250424T211405Z
-UID:aa34a99d-dadd-524c-958b-82ac696bb444
-DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
- ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
- hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
- tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
-LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
- nada
-URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
- he-pedestrian-experience
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-DTSTAMP:20241115T222212Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly)
-DTSTART:20241122T123000Z
-DTEND:20241122T141500Z
-DTSTAMP:20241120T201002Z
-UID:fe6f8a28-c073-5363-b7e8-b0e25c479ccf
-DESCRIPTION:An informal get-together at a coffee shop or diner in The King
- sway area of\nBloor West. Email us for specific details about the date (ev
- ery second Friday)\nand location of the event\, which usually runs between
-  7:30 and 9:15am. We\nrotate between local coffee shops\, including Hot Ov
- en Bakery\, Rouge Café\,\nToast on Bloor\, Creme de la Creme\, Coffee Tre
- e Roastery (Bloor W Village)\, and\nCafé de Flore.\n\n[Community.Bikeways
- .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:
-URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back To School Bike Tune-Up
