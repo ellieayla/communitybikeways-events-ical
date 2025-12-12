@@ -145,6 +145,25 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250228T123000Z
+DTEND:20250228T141500Z
+DTSTAMP:20250227T003035Z
+UID:57841b10-301d-529d-99ab-da754bb3edb6
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
+ , Canada
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Earth Day Ride in North York
 DTSTART:20250426T140000Z
 DTEND:20250426T153000Z
@@ -179,23 +198,21 @@ URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
  he-pedestrian-experience
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20250228T123000Z
-DTEND:20250228T141500Z
-DTSTAMP:20250227T003035Z
-UID:57841b10-301d-529d-99ab-da754bb3edb6
-DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
- ingsway is an informal get-together at a coffee shop or diner\nin The King
- sway area of Bloor West. Email us for specific details about the\ndate (ev
- ery second Friday) and location of the event\, which usually runs\nbetween
-  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
- en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
- \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
- Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx
+SUMMARY:Bikes\, Bikes\, and E-Bikes
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+DTSTAMP:20250426T001614Z
+UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
+DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
+ 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
+ alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
+ lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
+  proliferation of e-bikes on city\nstreets\, and work that needs to be don
+ e by governments to regulate the growing\nsize\, weight and power of some 
+ e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
+LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
+ N\, M5S 1X4\, Canada
+URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
@@ -254,23 +271,6 @@ LOCATION:AccessPoint on Danforth\, 3079 Danforth Avenue\, Toronto\, ON\, M
  1L 1A8\, Canada
 URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bikes\, Bikes\, and E-Bikes
-DTSTART:20250504T140000Z
-DTEND:20250504T153000Z
-DTSTAMP:20250426T001614Z
-UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
-DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
- 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
- alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
- lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
-  proliferation of e-bikes on city\nstreets\, and work that needs to be don
- e by governments to regulate the growing\nsize\, weight and power of some 
- e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
-LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
- N\, M5S 1X4\, Canada
-URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
