@@ -4,6 +4,19 @@ PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+DTSTAMP:20241115T222159Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedal Protest: East End Vs. Bill 212
 DTSTART:20241117T203000Z
 DTEND:20241117T233000Z
@@ -45,17 +58,15 @@ LOCATION:
 URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+DTSTAMP:20241130T201242Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
@@ -115,15 +126,23 @@ LOCATION:
 URL:https://www.communitybikewaysto.ca/events/cycling-good-cheer-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-DTSTAMP:20241130T201242Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n
-LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20241220T123000Z
+DTEND:20241220T141500Z
+DTSTAMP:20250227T002750Z
+UID:c756e79b-74a5-58c2-9612-2974cbccba87
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
+ , Canada
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -179,61 +198,6 @@ URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
  he-pedestrian-experience
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikes\, Bikes\, and E-Bikes
-DTSTART:20250504T140000Z
-DTEND:20250504T153000Z
-DTSTAMP:20250426T001614Z
-UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
-DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
- 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
- alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
- lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
-  proliferation of e-bikes on city\nstreets\, and work that needs to be don
- e by governments to regulate the growing\nsize\, weight and power of some 
- e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
-LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
- N\, M5S 1X4\, Canada
-URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20241220T123000Z
-DTEND:20241220T141500Z
-DTSTAMP:20250227T002750Z
-UID:c756e79b-74a5-58c2-9612-2974cbccba87
-DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
- ingsway is an informal get-together at a coffee shop or diner\nin The King
- sway area of Bloor West. Email us for specific details about the\ndate (ev
- ery second Friday) and location of the event\, which usually runs\nbetween
-  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
- en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
- \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
- Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20250606T113000Z
-DTEND:20250606T131500Z
-DTSTAMP:20250607T225956Z
-UID:1310cdc6-6926-531d-a303-06d914d15d86
-DESCRIPTION:Join us at Café Rouge on December 20th!\n\nKoffee on the King
- sway is an informal get-together at a coffee shop or diner\nin The Kingswa
- y area of Bloor West. Email us for specific details about the\ndate (every
-  second Friday) and location of the event\, which usually runs\nbetween 7:
- 30 and 9:15am. We rotate between local coffee shops\, including Hot\nOven 
- Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree\nR
- oastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.Tor
- onto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
- anada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx-4ewd5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chalk My Walk
 DTSTART:20250607T180000Z
 DTEND:20250607T210000Z
@@ -260,6 +224,25 @@ URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250606T113000Z
+DTEND:20250606T131500Z
+DTSTAMP:20250607T225956Z
+UID:1310cdc6-6926-531d-a303-06d914d15d86
+DESCRIPTION:Join us at Café Rouge on December 20th!\n\nKoffee on the King
+ sway is an informal get-together at a coffee shop or diner\nin The Kingswa
+ y area of Bloor West. Email us for specific details about the\ndate (every
+  second Friday) and location of the event\, which usually runs\nbetween 7:
+ 30 and 9:15am. We rotate between local coffee shops\, including Hot\nOven 
+ Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree\nR
+ oastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.Tor
+ onto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
+ anada
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-4ewd5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
 DTSTART:20250531T133000Z
 DTEND:20250531T170000Z
@@ -271,6 +254,23 @@ LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
  e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
 URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
  t8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikes\, Bikes\, and E-Bikes
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+DTSTAMP:20250426T001614Z
+UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
+DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
+ 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
+ alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
+ lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
+  proliferation of e-bikes on city\nstreets\, and work that needs to be don
+ e by governments to regulate the growing\nsize\, weight and power of some 
+ e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
+LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
+ N\, M5S 1X4\, Canada
+URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -293,25 +293,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
-DTSTART:20250725T113000Z
-DTEND:20250725T131500Z
-DTSTAMP:20250722T212649Z
-UID:ac03d026-8037-581b-b624-6c4d68c2d936
-DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
-  shop or diner\nin The Kingsway area of Bloor West. Email us for specific 
- details about the\ndate (every second Friday) and location of the event\, 
- which usually runs\nbetween 7:30 and 9:15am. We rotate between local coffe
- e shops\, including Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Crem
- e de la Creme\, Coffee Tree\nRoastery (Bloor W Village)\, and Café de Flo
- re.\n\n[Community.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.To
- ronto@gmail.com)\n\n
-LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\, 
- M8X 1C1\, Canada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx-bgrkn-s9nbd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20250829T113000Z
 DTEND:20250829T131500Z
 DTSTAMP:20250812T213940Z
@@ -328,6 +309,25 @@ LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
  anada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5-7dj84
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koffee On The Kingsway (Biweekly)
+DTSTART:20250725T113000Z
+DTEND:20250725T131500Z
+DTSTAMP:20250722T212649Z
+UID:ac03d026-8037-581b-b624-6c4d68c2d936
+DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
+  shop or diner\nin The Kingsway area of Bloor West. Email us for specific 
+ details about the\ndate (every second Friday) and location of the event\, 
+ which usually runs\nbetween 7:30 and 9:15am. We rotate between local coffe
+ e shops\, including Hot\nOven Bakery\, Rouge Café\, Toast on Bloor\, Crem
+ e de la Creme\, Coffee Tree\nRoastery (Bloor W Village)\, and Café de Flo
+ re.\n\n[Community.Bikeways.Toronto@gmail.com](mailto:Community.Bikeways.To
+ ronto@gmail.com)\n\n
+LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\, 
+ M8X 1C1\, Canada
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx-bgrkn-s9nbd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back To School Bike Tune-Up
