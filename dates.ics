@@ -4,6 +4,19 @@ PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+DTSTAMP:20241115T222159Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedal Protest: East End Vs. Bill 212
 DTSTART:20241117T203000Z
 DTEND:20241117T233000Z
@@ -258,19 +271,6 @@ LOCATION:AccessPoint on Danforth\, 3079 Danforth Avenue\, Toronto\, ON\, M
  1L 1A8\, Canada
 URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
