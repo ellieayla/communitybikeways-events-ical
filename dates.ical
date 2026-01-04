@@ -17,17 +17,6 @@ LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\,
 URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Day of Remembrance
 DTSTART:20241117T213000Z
 DTEND:20241118T003000Z
@@ -183,6 +172,17 @@ LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bikes\, Bikes\, and E-Bikes
 DTSTART:20250504T140000Z
 DTEND:20250504T153000Z
@@ -200,17 +200,19 @@ LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
 URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
-DTSTART:20250531T133000Z
-DTEND:20250531T170000Z
-DTSTAMP:20250517T174806Z
-UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
-DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
- l date was\npostponed due to rain.\n\n
-LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
- e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
-URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
- t8
+SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
+DTSTART:20250503T190000Z
+DTEND:20250503T203000Z
+DTSTAMP:20250424T211405Z
+UID:aa34a99d-dadd-524c-958b-82ac696bb444
+DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
+ ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
+ hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
+ tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
+LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
+ nada
+URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
+ he-pedestrian-experience
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -258,19 +260,17 @@ URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
-DTSTART:20250503T190000Z
-DTEND:20250503T203000Z
-DTSTAMP:20250424T211405Z
-UID:aa34a99d-dadd-524c-958b-82ac696bb444
-DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
- ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
- hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
- tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
-LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
- nada
-URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
- he-pedestrian-experience
+SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
+DTSTART:20250531T133000Z
+DTEND:20250531T170000Z
+DTSTAMP:20250517T174806Z
+UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
+DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
+ l date was\npostponed due to rain.\n\n
+LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
+ e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
+URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
+ t8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
