@@ -314,6 +314,29 @@ URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
  0b
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E-bikes: Lots to Love. Let's Deal with the Problems.
+DTSTART:20260211T000000Z
+DTEND:20260211T010000Z
+DTSTAMP:20260129T222239Z
+UID:b2c21422-69bc-5152-a54f-18bb9a1fe753
+DESCRIPTION:**Overview**\n\nJoin us for a lively evening of discussion abo
+ ut e-bikes! Why we love them and\nlove to hate them.\n\nWe want to see e-b
+ ike potential maximized\, but how do we deal with the\nproblems\, includin
+ g powerful\, heavy\, speeding e-bikes in bike lanes that\nintimidate other
+  riders?\n\nHow should regulation distinguish between pedal-assist e-bikes
+  and moped- and\nmotorcycle-like e-bikes? Speed? Weight? Power? Accelerati
+ on? Or something\nelse?\n\nOur panel of experts will focus on e-bike techn
+ ologies\, existing regulation\nand regulation from other jurisdictions\, b
+ atteries\, the food courier business\,\nand children on e-bikes.\n\nThe pa
+ nel will be the following:\n\nMC: **Dani** \, Retailer Perspective: **Aaro
+ n Enchin** (Curbside Cycle)\, E-bike\nbatteries: **Lance Le Roux** (Commun
+ ity Bikeways) E-bike regulatory regime:\n**Albert Koehl** (lawyer).\n\n
+LOCATION:Curbside Cycle\, 412 Bloor Street West\, Toronto\, ON\, M5S 1X5\,
+  Canada
+URL:https://www.communitybikewaysto.ca/events/e-bikes-an-evening-discussio
+ n-with-curbside-cycle-community-bikeways
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intersection Intervention
 DTSTART:20251031T210000Z
 DTEND:20251101T000000Z
