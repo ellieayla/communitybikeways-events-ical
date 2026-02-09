@@ -1,7 +1,5 @@
 
 from scrapy.exporters import BaseItemExporter
-
-
 import icalendar
 from uuid import UUID, uuid5
 
@@ -28,7 +26,7 @@ class ICalItemExporter(BaseItemExporter):
         e = icalendar.Event()
         
         e.add("summary", icalendar.vText(item['summary']))
-        e.add('uid', icalendar.vText(uuid5(ns, item['url'])))
+        e.add('uid', icalendar.vText(str(uuid5(ns, item['url']))))
         e.add('url', icalendar.vText(item['url']))
 
         e.add("dtstart", icalendar.vDatetime(item['start_datetime']))
