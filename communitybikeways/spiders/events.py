@@ -44,10 +44,10 @@ class EventsSpider(scrapy.Spider):
                 "description": description,
             }
         )
-    
+
     def handle_ical_file(self, response, event_url=None, description=None):
         base_calendar = icalendar.Calendar.from_ical(response.body)
-        
+
         base_event = base_calendar.walk('vevent')[0]
 
         location = base_event.decoded("location", default="")

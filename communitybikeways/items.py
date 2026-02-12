@@ -34,7 +34,7 @@ class Event(Item):
     start_datetime = Field()
     end_datetime = Field()
     updated_at = Field()
-    
+
     location = Field()
 
     description = Field()
