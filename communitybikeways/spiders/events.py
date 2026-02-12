@@ -55,7 +55,7 @@ class EventsSpider(scrapy.Spider):
         end_time = base_event.decoded('dtend')
         dtstamp_updated_at_datetime = base_event.decoded('dtstamp')
         url = base_event.decoded('url', default="")
-        summary = base_event.decoded('summary').decode()
+        summary = base_event.decoded('summary')
 
         if url and url != event_url:
             logging.warning("Url in ical file does not match page url")

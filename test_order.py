@@ -22,6 +22,7 @@ def test_assumption_icalendar_sortable_keys() -> None:
         e.add("uid", icalendar.vText('uuid-'+component.upper()))
         a.add_component(e)
 
+    a.add_missing_timezones()
     baked_ical_file_content_unordered: str = a.to_ical().decode()
 
     # subcomponent items are sortable after insertion
@@ -98,6 +99,5 @@ def test_ICalItemExporter_sorts() -> None:
     expected_uids_ordered = sorted(expected_uids)
 
     b = icalendar.Calendar.from_ical(writer_file.getvalue().decode())
-
-    for (left, right) in zip(expected_uids_ordered, b.subcomponents):
+    for (left, right) in zip(expected_uids_ordered, b.events):
         assert left == right.get('UID')
