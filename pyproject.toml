@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "html2text>=2025.4.15",
-    "icalendar==6.3.2",
+    "icalendar>=7.0.0",
     "pytz>=2025.1",
     "scrapy>=2.14.1",
 ]
