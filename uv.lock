@@ -201,7 +201,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "html2text", specifier = ">=2025.4.15" },
-    { name = "icalendar", specifier = ">=6.3.2" },
+    { name = "icalendar", specifier = "==6.3.2" },
     { name = "pytz", specifier = ">=2025.1" },
     { name = "scrapy", specifier = ">=2.14.1" },
 ]
@@ -209,7 +209,7 @@ requires-dist = [
 [package.metadata.requires-dev]
 dev = [
     { name = "pytest", specifier = ">=9.0.2" },
-    { name = "types-icalendar", specifier = ">=6.3.2.20251222" },
+    { name = "types-icalendar", specifier = "==6.3.2.20251222" },
 ]
 
 [[package]]
