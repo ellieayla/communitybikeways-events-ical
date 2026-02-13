@@ -84,7 +84,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 HTTPCACHE_ENABLED = True
 HTTPCACHE_EXPIRATION_SECS = 600
 HTTPCACHE_DIR = "httpcache"
-HTTPCACHE_IGNORE_HTTP_CODES = []
+HTTPCACHE_IGNORE_HTTP_CODES = []  # type: list[int]
 HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"
 
 # Set settings whose default value is deprecated to a future-proof value

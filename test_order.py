@@ -1,13 +1,10 @@
-from sched import Event
 from textwrap import dedent
 import icalendar
-from operator import attrgetter
 from io import BytesIO
 from datetime import datetime
 from uuid import uuid5
 
 def test_assumption_icalendar_sortable_keys() -> None:
-
     a = icalendar.Calendar()
     a.add('prodid', '-//author.example.com//')
     a.add('version', '2.0')
@@ -77,7 +74,7 @@ def test_ICalItemExporter_sorts() -> None:
     exporter = ICalItemExporter(writer_file)
 
     exporter.start_exporting()
-    
+
     _fake_date = datetime.fromisoformat("2020-01-01T13:30:00Z")  # needed by exporter but unimportant
 
     expected_uids: list[str] = []

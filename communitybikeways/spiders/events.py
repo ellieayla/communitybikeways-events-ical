@@ -1,6 +1,6 @@
 import scrapy
-
-from typing import Generator
+from scrapy.http import HtmlResponse, TextResponse
+from typing import Iterator, Any
 
 from ..items import Event
 import icalendar
@@ -16,8 +16,9 @@ class EventsSpider(scrapy.Spider):
         'https://www.communitybikewaysto.ca/events'
     ]
 
-    def parse(self, response) -> Generator[Event, None, None]:
-        # https://docs.scrapy.org/en/latest/topics/loaders.html#nested-loaders ?
+    def parse(self, /, *args: Any, **kwargs: Any) -> Iterator[scrapy.Request]:
+        assert isinstance(args[0], HtmlResponse)  # guard because signature of parse() doesn't declare `response`
+        response: HtmlResponse = args[0]
 
         for e in response.css("div.events-list .eventlist-event h1 a::attr(href)").getall():
             yield scrapy.Request(
@@ -25,14 +26,17 @@ class EventsSpider(scrapy.Spider):
                 callback=self.parse_meeting_details,
             )
 
-    def parse_meeting_details(self, response):
+    def parse_meeting_details(self, /, *args: Any, **kwargs: Any) -> Iterator[scrapy.Request]:
+        assert isinstance(args[0], HtmlResponse)  # guard because signature of parse() doesn't declare `response`
+        response: HtmlResponse = args[0]
+
         # one event, like /events/roqzijbovnaaa6t243n3f1xggq8mkk
-        ics_url = response.css("a.eventitem-meta-export-ical::attr(href)").get()
+        ics_url: str = response.css("a.eventitem-meta-export-ical::attr(href)").get() or ""
 
         content = response.css(".events-item .html-block")
 
         try:
-            description = html2text(content.get())
+            description = html2text(content.get() or "")
         except AttributeError:
             description = ""
 
@@ -44,10 +48,17 @@ class EventsSpider(scrapy.Spider):
                 "description": description,
             }
         )
-    
-    def handle_ical_file(self, response, event_url=None, description=None):
-        base_calendar = icalendar.Calendar.from_ical(response.body)
-        
+
+    def handle_ical_file(self, *args: Any, **kwargs: Any) -> Iterator[Event]:
+        assert isinstance(args[0], TextResponse)  # guard because signature of parse() doesn't declare `response`
+        response: TextResponse = args[0]
+        assert isinstance(kwargs['event_url'], str)
+        event_url: str = kwargs['event_url']
+        assert isinstance(kwargs['description'], str)
+        description: str = kwargs['description']
+
+        base_calendar: icalendar.Component = icalendar.Calendar.from_ical(response.text, multiple=False)
+
         base_event = base_calendar.walk('vevent')[0]
 
         location = base_event.decoded("location", default="")

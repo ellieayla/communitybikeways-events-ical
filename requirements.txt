@@ -1,6 +1,0 @@
-pip>=21.3.1
-Scrapy>=2.12.0
-pytz>=2025.1
-cryptography>=36.0.1
-icalendar==6.3.2
-html2text>=2025.4.15

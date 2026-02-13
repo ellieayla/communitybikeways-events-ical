@@ -6,8 +6,8 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-
+from .spiders.events import EventsSpider
 
 class communitybikewaysPipeline:
-    def process_item(self, item, spider):
+    def process_item(self, item: ItemAdapter, spider: EventsSpider) -> ItemAdapter:
         return item
