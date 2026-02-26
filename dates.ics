@@ -243,6 +243,19 @@ URL:https://www.communitybikewaysto.ca/events/roqzijbovnaaa6t243n3f1xggq8m
  kk
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bike Lane Snow-clearing Party
+DTSTART:20260214T143000Z
+DTEND:20260214T163000Z
+DTSTAMP:20260225T223529Z
+UID:99c039c5-e7d9-5f9f-bee1-7fc14aee574f
+DESCRIPTION:Please join us for our fourth snow-clearing party. Meet at sou
+ thwest corner of\nBloor at Bathurst. It's Valentine's Day. Show your love 
+ for bike lanes.\n\n
+LOCATION:Bloor and Bathurst\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/bike-lane-snow-clearing-part
+ y
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Save School Safety Cameras - Provincial Day of Action
 DTSTART:20251020T120000Z
 DTEND:20251020T150000Z
@@ -286,17 +299,6 @@ LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\,
  M8X 1C1\, Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn-s9nbd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fridays for Future
@@ -389,20 +391,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-DTSTAMP:20241115T222212Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bikes\, Bikes\, and E-Bikes
 DTSTART:20250504T140000Z
 DTEND:20250504T153000Z
@@ -429,6 +417,24 @@ DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
  ur bike lanes!\n\n
 LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
 URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Scarborough Rail Path (WSRP)
+DTSTART:20260222T193000Z
+DTEND:20260222T213000Z
+DTSTAMP:20260225T223228Z
+UID:def7e818-ddd9-5e48-87eb-831fd624f8c1
+DESCRIPTION:[West Scarborough Rail Path (WSRP)](https://www.westscarboroug
+ hrailpath.ca/)\n\nCommunity Bikeways is one of the featured speakers\, and
+  will present the Loop\nTrail initiative and talk about why it's an opport
+ une time --- given Doug\nFord's edict against new bike lanes that reduce c
+ ar lanes --- to be connecting\nthe strands of bike paths across the city t
+ hat could become useful utilitarian\nroutes. The Loop Trail and the WSRP a
+ re complementary initiatives.\n\n
+LOCATION:Albert Campbell Library\, 496 Birchmount Road\, Toronto\, ON\, M1
+ K 1N8\, Canada
+URL:https://www.communitybikewaysto.ca/events/west-scarborough-rail-path-w
+ srp
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
